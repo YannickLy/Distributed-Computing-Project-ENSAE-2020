@@ -6,7 +6,7 @@ Since our local machines are not powerful enough, we decided to limit the datase
 
 ----------------------------------------------------------------------
 Driver memory option has to be changed in the **spark-defaults.conf** if executed in local environment.  
-<code> spark.driver.memory 8g </code>
+<code> spark.driver.memory = 8g </code>
 
 ## Auteurs
 
