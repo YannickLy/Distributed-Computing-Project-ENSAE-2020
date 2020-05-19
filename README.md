@@ -1,5 +1,8 @@
 # Machine Learning with PySpark - Distributed Computing Project ENSAE 2020
 
+Apply Machine Learning methods with PySpark to PUBG finish placement prediction.  
+Link to the associated project : https://github.com/YannickLy/Machine-Learning-Project-ENSAE-2020  
+
 ## Dataset
 Data from https://www.kaggle.com/c/pubg-finish-placement-prediction/data  
 Since our local machines are not powerful enough, we decided to limit the dataset at 5%.  
