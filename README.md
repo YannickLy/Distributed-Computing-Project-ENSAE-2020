@@ -2,7 +2,7 @@
 
 ## Dataset
 Data from https://www.kaggle.com/c/pubg-finish-placement-prediction/data  
-Since our local machines are not powerful enough, we decided to limit the dataset at 5% of the dataset.  
+Since our local machines are not powerful enough, we decided to limit the dataset at 5%.  
 
 ## Local Spark Setup
 Driver memory option has to be changed in the **spark-defaults.conf** if executed in local environment.  
