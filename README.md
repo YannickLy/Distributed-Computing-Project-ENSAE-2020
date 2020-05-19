@@ -1,4 +1,4 @@
-# Machine Learning with PySpark - Traitement des donnees distribuees Project ENSAE 2020
+# Machine Learning with PySpark - Distributed Computing Project ENSAE 2020
 
 ## Dataset
 Data from https://www.kaggle.com/c/pubg-finish-placement-prediction/data  
